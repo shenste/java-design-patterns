@@ -47,6 +47,7 @@ public class App {
     commander.accept(new SoldierVisitor());
     commander.accept(new SergeantVisitor());
     commander.accept(new CommanderVisitor());
+    // test
 
   }
 }
